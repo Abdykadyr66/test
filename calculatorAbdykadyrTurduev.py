@@ -9,6 +9,7 @@ if os.name == "nt":
     os.system("cls")
 else:
     os.system("clear")
+    
 
 if select_operation == 1:
     output = a * b
